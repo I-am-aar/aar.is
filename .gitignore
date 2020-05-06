@@ -1,4 +1,6 @@
 yarn.lock
+/build
+/public
 
 # Logs
 logs
